@@ -27,7 +27,7 @@ const Filox = {
     name : "Baptiste",
     status : "Student - Utec",
     country : "France, Fontainbleau",
-    love : ("📱","🤖","🖥️"),
+    love : ("📱","🤖","🖥️","Clara"),
 };
 ```
 
