@@ -22,13 +22,29 @@
 ## <img src=.ressources/cat.gif width="50"> About me
 <img src=".ressources/codingloop.gif" height="170vh" align="right">
 
-```js
-const Filox = {
-    name : "Baptiste",
-    status : "Student - Utec",
-    country : "France, Fontainbleau",
-    love : ("📱","🤖","🖥️","Clara❤️"),
-};
+```java
+public class Filox {
+    private String name = "Baptiste";
+    private String status = "Student - Utec";
+    private String country = "France, Fontainebleau";
+    private String[] love = {"📱", "🤖", "🖥️", "Clara❤️"};
+
+    public void displayInfo() {
+        System.out.println("Name: " + name);
+        System.out.println("Status: " + status);
+        System.out.println("Country: " + country);
+        System.out.print("Love: ");
+        for (String item : love) {
+            System.out.print(item + " ");
+        }
+        System.out.println();
+    }
+
+    public static void main(String[] args) {
+        Filox filox = new Filox();
+        filox.displayInfo();
+    }
+}
 ```
 
 <picture>
