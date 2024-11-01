@@ -85,4 +85,4 @@ public class Filox {
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali" alt="os">
   </a>
 </div>
-inspirer du gitgub de Antrubtor : https://github.com/Antrubtor
+inspiré de GitHub de Antrubtor : https://github.com/Antrubtor
