@@ -52,20 +52,22 @@ public class Filox {
   <source media="(prefers-color-scheme: light)" srcset=".ressources/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src=".ressources/github-contribution-grid-snake.svg" />
 </picture>
+-----------------------------------------------
+
 ## 📊 Stats <img src="https://wakatime.com/badge/user/c17099b0-7639-429f-9449-d8b97840c53b.svg" alt="Total time coded" align="right" />
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FskiTeo&show_icons=true&theme=dark&hide_border=true&custom_title=FskiTeo's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Filox77250&show_icons=true&theme=dark&hide_border=true&custom_title=Filox's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
     media="(prefers-color-scheme: dark)"
     width="49%"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FskiTeo&show_icons=true&theme=light&hide_border=true&custom_title=FskiTeo's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=Filox77250&show_icons=true&theme=light&hide_border=true&custom_title=Filox's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
     media="(prefers-color-scheme: light)"
     width="49%"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FskiTeo&show_icons=true&theme=dark&hide_border=true&custom_title=FskiTeo's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Filox77250&show_icons=true&theme=dark&hide_border=true&custom_title=Filox's GitHub Stats&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" />
 </picture>
 
 <picture>
