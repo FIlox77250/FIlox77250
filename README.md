@@ -27,7 +27,7 @@ public class Filox {
     private String name = "Baptiste";
     private String status = "Student - Utec";
     private String country = "France, Fontainebleau";
-    private String[] love = {"📱", "🤖", "🖥️", "Clara❤️"};
+    private String[] love = {"📱", "🤖", "🖥️"};
 
     public void displayInfo() {
         System.out.println("Name: " + name);
