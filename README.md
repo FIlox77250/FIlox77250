@@ -72,18 +72,17 @@ public class Filox {
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@c17099b0-7639-429f-9449-d8b97840c53b&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2012/04/2023"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filox&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2012/04/2023"
     media="(prefers-color-scheme: dark)"
     width="49%"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=@c17099b0-7639-429f-9449-d8b97840c53b&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filox&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023"
     media="(prefers-color-scheme: light)"
     width="49%"
   />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@c17099b0-7639-429f-9449-d8b97840c53b&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Filox&layout=compact&langs_count=10&theme=light&custom_title=Time%20by%20language%20since%2012/04/2023" />
 </picture>
-
 
 -----------------------------------------------
 
