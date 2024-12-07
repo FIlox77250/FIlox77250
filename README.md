@@ -27,7 +27,7 @@ public class Filox {
     private String name = "Baptiste";
     private String status = "Student - Utec";
     private String country = "France, Fontainebleau";
-    private String[] love = {"📱", "🤖", "🖥️"};
+    private String[] love = {"📱", "🤖", "🖥️"Clara};
 
     public void displayInfo() {
         System.out.println("Name: " + name);
@@ -72,7 +72,7 @@ public class Filox {
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filox&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2012/04/2023"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filox&layout=compact&langs_count=10&theme=radical&custom_title=Time%20by%20language%20since%2002/11/2024"
     media="(prefers-color-scheme: dark)"
     width="49%"
   />
